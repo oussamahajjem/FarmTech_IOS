@@ -1,0 +1,79 @@
+"Welcome" = "Welcome";
+"Dark Mode" = "Dark Mode";
+"Light Mode" = "Light Mode";
+"Go to Settings" = "Go to Settings";
+"Setting" = "Setting";
+"Notifications" = "Notifications";
+"Enable Notifications" = "Enable Notifications";
+"Appearance" = "Appearance";
+"Language" = "Language";
+"Select Language" = "Select Language";
+"English" = "English";
+"Français" = "French";
+"Arabe" = "Arabic";
+
+"Sign In" = "Sign In";
+"Email" = "Email";
+"Password" = "Password";
+"Forgot Password?" = "Forgot Password?";
+"Don't have an account? Sign Up" = "Don't have an account? Sign Up";
+
+"Sign Up" = "Sign Up";
+"Name" = "Name";
+"Email" = "Email";
+"Password" = "Password";
+"Already have an account? Sign In" = "Already have an account? Sign In";
+
+"Check Your Plant's Health" = "Check Your Plant's Health";
+"Upload a photo of your plant, and let's diagnose its condition!" = "Upload a photo of your plant, and let's diagnose its condition!";
+"Select an image" = "Select an image";
+"Choose Image" = "Choose Image";
+"Predict" = "Predict";
+"Treatment Advice:" = "Treatment Advice:";
+"Prune affected leaves and apply fungicidal spray." = "Prune affected leaves and apply fungicidal spray.";
+"Remove infected parts and use rust-resistant plant varieties." = "Remove infected parts and use rust-resistant plant varieties.";
+"No treatment needed or disease unrecognized." = "No treatment needed or disease unrecognized.";
+
+"Loading weather data..." = "Loading weather data...";
+"Weather Forecast" = "Weather Forecast";
+"Temperature" = "Temperature";
+"Precipitation" = "Precipitation";
+"Wind" = "Wind";
+"Error:" = "Error:";
+    
+"Recommendations" = "Recommendations";
+"Agricultural Recommendations" = "Agricultural Recommendations";
+"Irrigation" = "Irrigation";
+"Planting" = "Planting";
+"Plant Disease Risk" = "Plant Disease Risk";
+"Fruit Trees" = "Fruit Trees";
+"Crop Selection" = "Crop Selection";
+
+"Parcelles" = "Plots";
+"Enter the latitude" = "Enter the latitude";
+"Enter the longitude" = "Enter the longitude";
+"Enter the area (Area)" = "Enter the area";
+"Enter the soil type" = "Enter the soil type";
+"Add a plot" = "Add a plot";
+"Please enter valid values for latitude, longitude, and area." = "Please enter valid values for latitude, longitude, and area.";
+"Map of plots" = "Map of plots";
+
+"FarmTechAI" = "FarmTechAI";
+"Search or add a feature" = "Search or add a feature";
+"Weather Forecast" = "Weather Forecast";
+"Agri Analysis" = "Detect diseases and nutrient deficiencies";
+"Recomendation" = "Optimize your watering schedule";
+"Pest Detection" = "Identify and manage pests effectively";
+"Market Prices" = "Predict and track agricultural commodity prices";
+"Soil Analysis" = "Get fertilizer recommendations based on soil health";
+
+"Precipitation" = "Precipitation";
+"Wind" = "Wind";
+"crop health analysis" = "Crop Health Analysis";
+"enter image url" = "Enter Image URL";
+"upload image for analysis" = "Upload Image for Analysis";
+"Enter the latitude" = "Enter the latitude";
+"Enter the longitude" = "Enter the longitude";
+"Enter the area (Area)" = "Enter the area";
+"Enter the soil type" = "Enter the soil type";
+

@@ -1,0 +1,78 @@
+"Welcome" = "Bienvenue";
+"Dark Mode" = "Mode Sombre";
+"Light Mode" = "Mode Clair";
+"Go to Settings" = "Aller aux Paramètres";
+"Setting" = "Paramètres";
+"Notifications" = "Notifications";
+"Enable Notifications" = "Activer les Notifications";
+"Appearance" = "Apparence";
+"Language" = "Langue";
+"Select Language" = "Sélectionner la Langue";
+"English" = "Anglais";
+"Français" = "Français";
+"Arabe" = "Arabe";
+
+"Sign In" = "Se connecter";
+"Email" = "Courriel";
+"Password" = "Mot de passe";
+"Forgot Password?" = "Mot de passe oublié?";
+"Don't have an account? Sign Up" = "Pas de compte? Inscrivez-vous";
+
+"Sign Up" = "S'inscrire";
+"Name" = "Nom";
+"Email" = "Courriel";
+"Password" = "Mot de passe";
+"Already have an account? Sign In" = "Vous avez déjà un compte? Connectez-vous";
+
+"Check Your Plant's Health" = "Vérifiez la santé de votre plante";
+"Upload a photo of your plant, and let's diagnose its condition!" = "Téléchargez une photo de votre plante, et diagnostiquons son état!";
+"Select an image" = "Sélectionnez une image";
+"Choose Image" = "Choisir une image";
+"Predict" = "Prédire";
+"Treatment Advice:" = "Conseils de traitement:";
+"Prune affected leaves and apply fungicidal spray." = "Taillez les feuilles affectées et appliquez un spray fongicide.";
+"Remove infected parts and use rust-resistant plant varieties." = "Enlevez les parties infectées et utilisez des variétés de plantes résistantes à la rouille.";
+"No treatment needed or disease unrecognized." = "Aucun traitement nécessaire ou maladie non reconnue.";
+
+"Loading weather data..." = "Chargement des données météorologiques...";
+"Weather Forecast" = "Prévisions météorologiques";
+"Temperature" = "Température";
+"Precipitation" = "Précipitations";
+"Wind" = "Vent";
+"Error:" = "Erreur :";
+
+"Recommendations" = "Recommendations";
+"Agricultural Recommendations" = "Recommandations Agricoles";
+"Irrigation" = "Irrigation";
+"Planting" = "Plantation";
+"Plant Disease Risk" = "Risque de Maladies des Plantes";
+"Fruit Trees" = "Arbres Fruitiers";
+"Crop Selection" = "Sélection de Cultures";
+
+"Parcelles" = "Parcelles";
+"Enter the latitude" = "Entrez la latitude";
+"Enter the longitude" = "Entrez la longitude";
+"Enter the area (Area)" = "Entrez la superficie";
+"Enter the soil type" = "Entrez le type de sol";
+"Add a plot" = "Ajouter une parcelle";
+"Please enter valid values for latitude, longitude, and area." = "Veuillez entrer des valeurs valides pour la latitude, la longitude et la superficie.";
+"Map of plots" = "Carte des parcelles";
+
+"FarmTechAI" = "FarmTechAI";
+"Search or add a feature" = "Rechercher ou ajouter une fonctionnalité";
+"Weather Forecast" = "Prévisions météorologiques";
+"Agri Analysis" = "Détecter les maladies et les carences en nutriments";
+"Recomendation" = "Optimisez votre calendrier d'arrosage";
+"Pest Detection" = "Identifier et gérer les parasites efficacement";
+"Market Prices" = "Prévoir et suivre les prix des produits agricoles";
+"Soil Analysis" = "Obtenir des recommandations d'engrais basées sur la santé du sol";
+
+"Precipitation" = "Précipitations";
+"Wind" = "Vent";
+"crop health analysis" = "Analyse de la santé des cultures";
+"enter image url" = "Entrer l'URL de l'image";
+"upload image for analysis" = "Télécharger l'image pour analyse";
+"Enter the latitude" = "Entrez la latitude";
+"Enter the longitude" = "Entrez la longitude";
+"Enter the area (Area)" = "Entrez la superficie";
+"Enter the soil type" = "Entrez le type de sol";

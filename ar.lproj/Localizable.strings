@@ -1,0 +1,78 @@
+"Welcome" = "أهلا بك";
+"Dark Mode" = "الوضع الداكن";
+"Light Mode" = "الوضع الفاتح";
+"Go to Settings" = "اذهب إلى الإعدادات";
+"Setting" = "الإعدادات";
+"Notifications" = "الإشعارات";
+"Enable Notifications" = "تفعيل الإشعارات";
+"Appearance" = "المظهر";
+"Language" = "اللغة";
+"Select Language" = "اختر اللغة";
+"English" = "الإنجليزية";
+"Français" = "الفرنسية";
+"Arabe" = "العربية";
+
+"Sign In" = "تسجيل الدخول";
+"Email" = "البريد الإلكتروني";
+"Password" = "كلمة المرور";
+"Forgot Password?" = "نسيت كلمة المرور؟";
+"Don't have an account? Sign Up" = "لا تملك حساباً؟ سجل هنا";
+
+"Sign Up" = "إنشاء حساب";
+"Name" = "الاسم";
+"Email" = "البريد الإلكتروني";
+"Password" = "كلمة المرور";
+"Already have an account? Sign In" = "هل لديك حساب بالفعل؟ تسجيل الدخول";
+
+"Check Your Plant's Health" = "تحقق من صحة نباتك";
+"Upload a photo of your plant, and let's diagnose its condition!" = "قم بتحميل صورة لنباتك ودعنا نشخص حالته!";
+"Select an image" = "اختر صورة";
+"Choose Image" = "اختيار صورة";
+"Predict" = "تنبؤ";
+"Treatment Advice:" = "نصائح العلاج:";
+"Prune affected leaves and apply fungicidal spray." = "قص الأوراق المتأثرة ورش مبيد فطري.";
+"Remove infected parts and use rust-resistant plant varieties." = "أزل الأجزاء المصابة واستخدم أصناف النباتات المقاومة للصدأ.";
+"No treatment needed or disease unrecognized." = "لا يوجد علاج مطلوب أو المرض غير معروف.";
+
+"Recommendations" = "توصيات";
+"Loading weather data..." = "جاري تحميل بيانات الطقس...";
+"Weather Forecast" = "توقعات الطقس";
+"Temperature" = "درجة الحرارة";
+"Precipitation" = "الهطول";
+"Wind" = "الرياح";
+"Error:" = "خطأ:";
+
+"Agricultural Recommendations" = "توصيات زراعية";
+"Irrigation" = "الري";
+"Planting" = "الزراعة";
+"Plant Disease Risk" = "مخاطر أمراض النبات";
+"Fruit Trees" = "أشجار الفاكهة";
+"Crop Selection" = "اختيار المحاصيل";
+
+"Parcelles" = "القطع";
+"Enter the latitude" = "أدخل خط العرض";
+"Enter the longitude" = "أدخل خط الطول";
+"Enter the area (Area)" = "أدخل المساحة";
+"Enter the soil type" = "أدخل نوع التربة";
+"Add a plot" = "أضف قطعة";
+"Please enter valid values for latitude, longitude, and area." = "الرجاء إدخال قيم صحيحة لخطوط العرض والطول والمساحة.";
+"Map of plots" = "خريطة القطع";
+
+"FarmTechAI" = "فارم تك أي";
+"Search or add a feature" = "ابحث أو أضف ميزة";
+"Weather Forecast" = "توقعات الطقس";
+"Agri Analysis" = "كشف الأمراض ونقص المغذيات";
+"Recomendation" = "تحسين جدول الري";
+"Pest Detection" = "تحديد وإدارة الآفات بفعالية";
+"Market Prices" = "التنبؤ وتتبع أسعار السلع الزراعية";
+"Soil Analysis" = "الحصول على توصيات الأسمدة بناءً على صحة التربة";
+
+"Precipitation" = "الهطول";
+"Wind" = "الرياح";
+"crop health analysis" = "تحليل صحة المحاصيل";
+"enter image url" = "أدخل رابط الصورة";
+"upload image for analysis" = "رفع الصورة للتحليل";
+"Enter the latitude" = "أدخل خط العرض";
+"Enter the longitude" = "أدخل خط الطول";
+"Enter the area (Area)" = "أدخل المساحة";
+"Enter the soil type" = "أدخل نوع التربة";
